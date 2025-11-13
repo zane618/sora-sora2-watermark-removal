@@ -7,9 +7,9 @@ sora2很强大，但是有水印很不方便，我找到了一个去sora2水印�
    
  <img src="https://i-blog.csdnimg.cn/direct/9d5ff81fa736472aa7b39441101f0328.png"   width="50%">
  
-3. 点击【复制链接】，去浏览器下载即可
+3. 点击【下载视频】，手机会自动保存到相册，电脑端会保存到下载目录
    
- <img src="https://i-blog.csdnimg.cn/direct/bd3266cac8524323b4614693ba4b9616.png"   width="50%">
+ <img src="https://i-blog.csdnimg.cn/direct/7f9277cae2014fe9a16b0aa641983a6a.png"   width="50%">
  
 5. **小程序：**
 
