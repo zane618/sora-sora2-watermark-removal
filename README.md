@@ -13,7 +13,7 @@ sora2很强大，但是有水印很不方便，我找到了一个去sora2水印�
  
 5. **小程序：**
 
- <img src="https://i-blog.csdnimg.cn/direct/7f9277cae2014fe9a16b0aa641983a6a.png"   width="30%">
+ <img src="https://github.com/zane618/sora-sora2-watermark-removal/blob/main/gh_4d425006f121_1280.jpg"   width="30%">
  
 
 
